@@ -5,14 +5,14 @@ Please donate project:
 
 Paypal SLGPC.sec@gmail.com
 
+
 Crypto Wallet Ethereum: 
 0x439eF98236821d7CbB92bE679B0970c99C9429Bb
 
-
-Tron TRX:
+Tron TRX: 
 TG64VgzdPpyKYNpiSaTUmbvhtnXdUwS1Jq
 
-USDT Trc20:
+USDT Trc20: 
 TG64VgzdPpyKYNpiSaTUmbvhtnXdUwS1Jq
 
 Bitcoin: 
